@@ -1,4 +1,4 @@
-/* rs-theme-name: tomorrowDark */
+/* rs-theme-name: Material Theme Darker */
 /* rs-theme-is-dark: TRUE */
 :root {
   /* editor */
@@ -21,7 +21,7 @@
   --function-declaration: #82aaff;
   --variable: #eeffff;
   --comment: #999999;
-  --operator: #89ddff;
+  --operator: #b66565;
 
   /* markdown */
   --heading: var(--language-constant);
